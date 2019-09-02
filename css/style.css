@@ -85,7 +85,7 @@ body {
 
 .cover {
   background-color: #2f92a3;
-  /* background-image: url('../media/bg-cover.jpg'); */
+  background-image: url('../media/bg-cover.jpg');
   background-size: cover;
   height: 100vh;
   color: white;
